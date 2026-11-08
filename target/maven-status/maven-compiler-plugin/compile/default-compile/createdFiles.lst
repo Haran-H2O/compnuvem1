@@ -1,0 +1,6 @@
+br\edu\utfpr\compnuvem1\repository\LeituraRepository.class
+br\edu\utfpr\compnuvem1\Compnuvem1.class
+br\edu\utfpr\compnuvem1\controller\LeituraController.class
+br\edu\utfpr\compnuvem1\model\Leitura.class
+br\edu\utfpr\compnuvem1\config\CriadorTabela.class
+br\edu\utfpr\compnuvem1\config\DynamoConfig.class
